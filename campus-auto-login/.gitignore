@@ -1,0 +1,5 @@
+config.json
+credential.dpapi
+logs/
+*.log
+login.ps1.bak

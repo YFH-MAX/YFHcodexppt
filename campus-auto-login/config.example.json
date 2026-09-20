@@ -1,0 +1,14 @@
+{
+  "PortalBaseUrl": "http://10.1.1.10:801/eportal/portal/login",
+  "Username": "YOUR_USERNAME@cmcc",
+  "UserAccountPrefix": ",0,",
+  "WlanAcIp": "172.29.0.253",
+  "PreferredAdapterAlias": "WLAN",
+  "InitialDelaySeconds": 0,
+  "RetryDelaySeconds": 5,
+  "MaxAttempts": 48,
+  "RequestTimeoutSeconds": 15,
+  "MonitorPollSeconds": 2,
+  "MonitorRetrySeconds": 5,
+  "MonitorRecheckSeconds": 300
+}
